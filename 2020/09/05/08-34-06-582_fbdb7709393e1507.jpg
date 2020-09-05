@@ -1,0 +1,2776 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>Patently Apple</title>
+
+    <meta name="generator" content="//www.typepad.com/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="keywords" content="Apple Inc., patents, trademarks, special reports, patent figures, patent drawings, patent images, iPhone, iPad, MacBook, iMac, patently legal, Apple related legal cases " />
+        <meta name="description" content="Patently Apple is an Apple Inc. centric blog focused on dissecting Apple's latest Intellectual Property. We mainly report on Apple's patent applications, granted patents and trademark filings that have been published by the US Patent and Trademark Office. Our reports are full of inventive images that bring each and every invention come to life. To round off our site, we report on some of Apple's legal cases relating to intellectual property and post a number of special reports each year to spice things up. If you're one of those who happen to enjoy reading in-depth reports, then Patently Apple is definitely worth investigating.  
+" />
+
+        <link rel="stylesheet" href="https://static.typepad.com/.shared/themes/common/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://static.typepad.com/.shared/css/responsive-banner.css">
+
+    <link rel="stylesheet" href="https://static.typepad.com/.shared/themes/common/bxslider.css">
+    <link rel="stylesheet" href="https://static.typepad.com/.shared/css/widgets.css">
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="https://www.patentlyapple.com/patently-apple/styles.css?v=6" type="text/css" media="screen" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+    <link rel="canonical" href="https://www.patentlyapple.com/patently-apple/" />
+
+        <link rel="alternate" type="application/atom+xml" title="Posts on 'Patently Apple' (Atom)" href="https://www.patentlyapple.com/patently-apple/atom.xml" />
+        <link rel="alternate" type="application/rss+xml" title="Posts on 'Patently Apple' (RSS 1.0)" href="https://www.patentlyapple.com/patently-apple/index.rdf" />
+        <link rel="alternate" type="application/rss+xml" title="Posts on 'Patently Apple' (RSS 2.0)" href="https://www.patentlyapple.com/patently-apple/rss.xml" />
+
+        <script type="text/javascript">
+                var TPApp = {};
+                TPApp.app_uri = "//www.typepad.com/";
+        </script>
+        <script type="text/javascript" src="/.shared/js/yui/yahoo-dom-event.js,/js/app/thumbnail-gallery-min.js,/js/app/flyouts-min.js"></script>
+
+
+
+
+
+
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Arial','Comfortaa','Quicksand' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+
+
+<meta property="og:title" content="Patently Apple" />
+<meta property="og:site_name" content="Patently Apple" />
+<meta property="og:type" content="blog" />
+<meta property="og:url" content="https://www.patentlyapple.com/patently-apple/" />
+<meta property="og:description" content="" />
+<meta property="fb:admins" content="" />
+<meta property="og:image" content="https://up6.typepad.com/6a0120a5580826970c017ee8624eb5970d-220si" />
+
+
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-225723-36', 'auto', {'name': 'Typepad'}, {'allowLinker': true} );  // Separate tracker for Typepad.
+ga('Typepad.require', 'linker');
+ga('Typepad.linker:autoLink', ['none']);
+ga('Typepad.set', 'dimension1', '6a0120a5580826970c0120a5580ebf970c');
+ga('Typepad.set', 'dimension2', 'index');
+ga('Typepad.send', 'pageview');
+</script>
+
+
+    <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+<script data-ad-client="ca-pub-5081215961688388" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<link rel="shortcut icon" href="https://www.patentlyapple.com/patently-apple/favicon.ico?v=1.2"> 
+
+    <link rel="apple-touch-icon" href="https://www.patentlyapple.com/patently-apple/icon.png" />  
+    <link rel="apple-touch-icon" sizes="72x72" href="https://www.patentlyapple.com/patently-apple/icon.png" />  
+    <link rel="apple-touch-icon" sizes="114x114" href="https://www.patentlyapple.com/patently-apple/icon.png" />  
+
+
+
+
+
+</head>
+<body id="top" class="three-column index fullposts">
+
+<div id="bannav-wrap">
+
+
+                <div id="st-container" class="st-container">
+			<nav class="st-menu st-effect-1 font-nav" id="menu-1">
+                                <button class="close-side-menu"><i class="fas fa-times"></i></button>
+                                <ul>
+
+        <li class="icon icon-data"><a href="https://www.patentlyapple.com/">
+        <i class="fas fa-home"></i>
+        
+        
+        
+        Home</a></li>
+        <li class="icon icon-data"><a href="https://www.patentlyapple.com/patently-apple/archives.html">
+        
+        <i class="fas fa-archive"></i>
+        
+        
+        Archives</a></li>
+        <li class="icon icon-data"><a href="https://www.patentlyapple.com/patently-apple/contact-us.html">
+        
+        
+        
+        
+        Contact Us</a></li>
+        <li class="icon icon-data"><a href="https://www.patentlyapple.com/patently-apple/atom.xml">
+        
+        
+        
+        <i class="fas fa-rss"></i>
+        Subscribe</a></li>
+        <li class="icon icon-data"><a href="https://twitter.com/PatentlyApple">
+        
+        
+        
+        
+        Twitter</a></li>
+        <li class="icon icon-data"><a href="https://www.facebook.com/people/Patently-Apple/100001065022413#!/profile.php?id=100001065022413">
+        
+        
+        
+        
+        Facebook</a></li>
+        <li class="icon icon-data"><a href="https://mewe.com/i/patentlyapple">
+        
+        
+        
+        
+        MeWe</a></li>
+        <li class="icon icon-data"><a href="https://parler.com/profile/Patentlyapple/posts">
+        
+        
+        
+        
+        Parler</a></li>
+        <li class="icon icon-data"><a href="https://www.patentlymobile.com/">
+        
+        
+        
+        
+        Patently Mobile</a></li>
+
+                                </ul>
+			</nav>
+                </div>
+
+
+
+   
+            <div id="icons-container" class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="content">
+
+
+<div class="type-text" style="display:none;" id="st-trigger-effects">
+                            <button data-effect="st-effect-1" class="menu-icon open-side-menu">
+                                <i class="fas fa-bars"></i>
+                            </button>
+</div>
+
+
+
+
+<!--navbar-->
+
+
+      <div class="navtext font-nav">
+
+      
+
+        <a class="nav-link" href="https://www.patentlyapple.com/">Home</a>
+        <a class="nav-link" href="https://www.patentlyapple.com/patently-apple/archives.html">Archives</a>
+        <a class="nav-link" href="https://www.patentlyapple.com/patently-apple/contact-us.html">Contact Us</a>
+        <a class="nav-link" href="https://www.patentlyapple.com/patently-apple/atom.xml">Subscribe</a>
+        <a class="nav-link" href="https://twitter.com/PatentlyApple">Twitter</a>
+        <a class="nav-link" href="https://www.facebook.com/people/Patently-Apple/100001065022413#!/profile.php?id=100001065022413">Facebook</a>
+        <a class="nav-link" href="https://mewe.com/i/patentlyapple">MeWe</a>
+        <a class="nav-link" href="https://parler.com/profile/Patentlyapple/posts">Parler</a>
+        <a class="nav-link" href="https://www.patentlymobile.com/">Patently Mobile</a>
+   </div>
+ 
+
+
+
+                        <div id="social" style="display:none;">
+                            <ul>
+
+<li><a class="icon circle fab fa-facebook solo" href="https://www.facebook.com/app_scoped_user_id/100001065022413" rel="me"></a></li><li><a class="icon circle fab fa-twitter solo" href="https://twitter.com/PatentlyApple" rel="me"></a></li>
+
+                            </ul>
+                        </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        <header class="main">
+            <div id="banner-image-container" class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="content">
+                           <div id="banner"><a href="https://www.patentlyapple.com/patently-apple/"><span>
+                           
+                           </span></a></div>
+                        </div>
+                    </div>
+                </div>
+             </div>
+        </header>
+
+
+
+</div>
+
+    <main id="post-container">
+
+
+       
+
+<div id="imgbanner-admodule">
+<div class="container">
+        <div id="admodule-inner">
+        <p>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Banner Ad -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5081215961688388"
+     data-ad-slot="8933263619"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+        </div>
+</div>
+</div>
+
+
+
+
+
+        <div class="container">
+            <div class="row pagebody">
+
+                <div class="col-sm-8 col-sm-push-4 col-md-6 col-md-push-3">
+
+                    <div class="left-container"><div class="left-container-inner">
+
+
+
+
+
+
+<!-- FEATURED POST -->
+<div class="entry-featured">
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/apple-google-intel-and-cisco-file-a-complaint-in-a-california-court-against-the-director-of-the-us-patent-office.html">Apple, Google, Intel and Cisco File a Complaint in a California Court against the Director of the U.S. Patent Office </a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p style="margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;"><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026bde8fb8c5200c-pi" style="display: inline;"><img alt="1 XCover Apple  Cisco  Google and Intel sue director of the U.S. Patent Office " border="0" class="asset  asset-image at-xid-6a0120a5580826970c026bde8fb8c5200c image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c026bde8fb8c5200c-800wi" title="1 XCover Apple  Cisco  Google and Intel sue director of the U.S. Patent Office " /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/apple-google-intel-and-cisco-file-a-complaint-in-a-california-court-against-the-director-of-the-us-patent-office.html#more">Continue reading "Apple, Google, Intel and Cisco File a Complaint in a California Court against the Director of the U.S. Patent Office " &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 04, 2020 at 12:43 PM in <a href="https://www.patentlyapple.com/patently-apple/patent-infringement/">3. Patently Legal </a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/apple-google-intel-and-cisco-file-a-complaint-in-a-california-court-against-the-director-of-the-us-patent-office.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/apple-google-intel-and-cisco-file-a-complaint-in-a-california-court-against-the-director-of-the-us-patent-office.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+
+</div><!--entry-featured-->
+
+
+<!-- REGULAR POSTS -->
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/apple-updates-their-patent-that-describes-the-deformable-materials-used-in-the-making-of-airpods-pro-apple-pencil.html">Apple updates their Patent that describes the deformable materials used in the making of AirPods Pro & Apple Pencil  </a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c0263e96262aa200b-pi" style="display: inline;"><img alt="1 Cover AirPods Pro " border="0" class="asset  asset-image at-xid-6a0120a5580826970c0263e96262aa200b image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c0263e96262aa200b-800wi" title="1 Cover AirPods Pro " /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/apple-updates-their-patent-that-describes-the-deformable-materials-used-in-the-making-of-airpods-pro-apple-pencil.html#more">Continue reading "Apple updates their Patent that describes the deformable materials used in the making of AirPods Pro & Apple Pencil  " &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 04, 2020 at 10:53 AM in <a href="https://www.patentlyapple.com/patently-apple/patents-applications/">1. Patent Applications</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/apple-updates-their-patent-that-describes-the-deformable-materials-used-in-the-making-of-airpods-pro-apple-pencil.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/apple-updates-their-patent-that-describes-the-deformable-materials-used-in-the-making-of-airpods-pro-apple-pencil.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/the-school-lockdowns-in-europe-the-middle-east-and-africa-has-disadvantaged-apples-ipad-favored-samsung-tablets.html">The School Lockdowns in Europe, the Middle East and Africa has Disadvantaged Apple's iPad & Favored Samsung Tablets </a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026bde8fa7c5200c-pi"><img alt="1 x Cover - samsung tablets" border="0" class="asset  asset-image at-xid-6a0120a5580826970c026bde8fa7c5200c image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c026bde8fa7c5200c-800wi" style="display: block; margin-left: auto; margin-right: auto;" title="1 x Cover - samsung tablets" /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/the-school-lockdowns-in-europe-the-middle-east-and-africa-has-disadvantaged-apples-ipad-favored-samsung-tablets.html#more">Continue reading "The School Lockdowns in Europe, the Middle East and Africa has Disadvantaged Apple's iPad & Favored Samsung Tablets " &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 04, 2020 at 08:13 AM in <a href="https://www.patentlyapple.com/patently-apple/market-statistics/">7. Apple / Market Statistics</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/the-school-lockdowns-in-europe-the-middle-east-and-africa-has-disadvantaged-apples-ipad-favored-samsung-tablets.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/the-school-lockdowns-in-europe-the-middle-east-and-africa-has-disadvantaged-apples-ipad-favored-samsung-tablets.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/weeks-of-rumors-turn-to-fact-with-key-apple-supplier-broadcom-revealing-that-iphone-12-ramp-up-will-be-delayed.html">Weeks of Rumors turn to fact with Key Apple Supplier Broadcom revealing that iPhone 12 Ramp-up will be Delayed </a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026bde8fa316200c-pi" style="display: inline;"><img alt="1 x cover Broadcom logo" border="0" class="asset  asset-image at-xid-6a0120a5580826970c026bde8fa316200c image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c026bde8fa316200c-800wi" title="1 x cover Broadcom logo" /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/weeks-of-rumors-turn-to-fact-with-key-apple-supplier-broadcom-revealing-that-iphone-12-ramp-up-will-be-delayed.html#more">Continue reading "Weeks of Rumors turn to fact with Key Apple Supplier Broadcom revealing that iPhone 12 Ramp-up will be Delayed " &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 04, 2020 at 06:53 AM in <a href="https://www.patentlyapple.com/patently-apple/5-apple-news/">5. Apple News</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/weeks-of-rumors-turn-to-fact-with-key-apple-supplier-broadcom-revealing-that-iphone-12-ramp-up-will-be-delayed.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/weeks-of-rumors-turn-to-fact-with-key-apple-supplier-broadcom-revealing-that-iphone-12-ramp-up-will-be-delayed.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/the-nytimes-published-a-politically-charged-report-on-the-doj-planning-to-file-antitrust-charges-against-google-in-the-coming.html">The NYTimes Published a Politically Charged Report on the DOJ Planning to File Antitrust Charges against Google in the Coming Weeks</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c0263e96251c6200b-pi" style="display: inline;"><img alt="1 x cover bill barr AG" border="0" class="asset  asset-image at-xid-6a0120a5580826970c0263e96251c6200b image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c0263e96251c6200b-800wi" title="1 x cover bill barr AG" /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/the-nytimes-published-a-politically-charged-report-on-the-doj-planning-to-file-antitrust-charges-against-google-in-the-coming.html#more">Continue reading "The NYTimes Published a Politically Charged Report on the DOJ Planning to File Antitrust Charges against Google in the Coming Weeks" &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 04, 2020 at 06:46 AM in <a href="https://www.patentlyapple.com/patently-apple/patently-xtra-news/">5. Patently Extra News - Non-Apple </a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/the-nytimes-published-a-politically-charged-report-on-the-doj-planning-to-file-antitrust-charges-against-google-in-the-coming.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/the-nytimes-published-a-politically-charged-report-on-the-doj-planning-to-file-antitrust-charges-against-google-in-the-coming.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/a-deep-computer-vision-machine-learning-patent-surfaces-covering-the-possible-use-of-specialty-cameras-for-the-iphone-wear.html">A Deep Computer Vision, Machine Learning Patent Surfaces Covering the Possible use of Specialty cameras for the iPhone & Wearables </a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026be40e4c7c200d-pi" style="display: inline;"><img alt="1 cover Machine Learning" border="0" class="asset  asset-image at-xid-6a0120a5580826970c026be40e4c7c200d image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c026be40e4c7c200d-800wi" title="1 cover Machine Learning" /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/a-deep-computer-vision-machine-learning-patent-surfaces-covering-the-possible-use-of-specialty-cameras-for-the-iphone-wear.html#more">Continue reading "A Deep Computer Vision, Machine Learning Patent Surfaces Covering the Possible use of Specialty cameras for the iPhone & Wearables " &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 03, 2020 at 06:14 PM in <a href="https://www.patentlyapple.com/patently-apple/patents-applications/">1. Patent Applications</a>, <a href="https://www.patentlyapple.com/patently-apple/patents-camera/">Camera Related</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/a-deep-computer-vision-machine-learning-patent-surfaces-covering-the-possible-use-of-specialty-cameras-for-the-iphone-wear.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/a-deep-computer-vision-machine-learning-patent-surfaces-covering-the-possible-use-of-specialty-cameras-for-the-iphone-wear.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/apple-launches-their-2020-privacy-ad-campaign-for-iphone-with-a-hilarious-new-video-thats-like-verbal-slapstick.html">Apple launches their 2020 Privacy Ad Campaign for iPhone with a Hilarious new Video that's like Verbal Slapstick</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026be40e4860200d-pi" style="display: inline;"><img alt="1 x cover iphone privacy" border="0" class="asset  asset-image at-xid-6a0120a5580826970c026be40e4860200d image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c026be40e4860200d-800wi" title="1 x cover iphone privacy" /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/apple-launches-their-2020-privacy-ad-campaign-for-iphone-with-a-hilarious-new-video-thats-like-verbal-slapstick.html#more">Continue reading "Apple launches their 2020 Privacy Ad Campaign for iPhone with a Hilarious new Video that's like Verbal Slapstick" &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 03, 2020 at 04:48 PM in <a href="https://www.patentlyapple.com/patently-apple/5-apple-news/">5. Apple News</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/apple-launches-their-2020-privacy-ad-campaign-for-iphone-with-a-hilarious-new-video-thats-like-verbal-slapstick.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/apple-launches-their-2020-privacy-ad-campaign-for-iphone-with-a-hilarious-new-video-thats-like-verbal-slapstick.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/samsung-advances-their-future-rollablescrollable-smartphone-with-a-new-internal-roller-housing-design.html">Samsung Advances their Future Rollable/Scrollable Smartphone with a new Internal Roller Housing Design</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026bde8f7499200c-pi" style="display: inline;"><img alt="1 X cover samsung scrollable smartphone" border="0" class="asset  asset-image at-xid-6a0120a5580826970c026bde8f7499200c image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c026bde8f7499200c-800wi" title="1 X cover samsung scrollable smartphone" /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/samsung-advances-their-future-rollablescrollable-smartphone-with-a-new-internal-roller-housing-design.html#more">Continue reading "Samsung Advances their Future Rollable/Scrollable Smartphone with a new Internal Roller Housing Design" &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 03, 2020 at 03:32 PM in <a href="https://www.patentlyapple.com/patently-apple/patently-xtra-news/">5. Patently Extra News - Non-Apple </a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/samsung-advances-their-future-rollablescrollable-smartphone-with-a-new-internal-roller-housing-design.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/samsung-advances-their-future-rollablescrollable-smartphone-with-a-new-internal-roller-housing-design.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/another-dimension-of-apples-eye-tracking-technology-reveals-the-use-of-biometrics-and-machine-learning.html">Another Dimension of Apple's Eye Tracking Technology reveals the use of Biometrics and Machine Learning </a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c0263e96210c9200b-pi"></a> <a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026be40e2fb7200d-pi" style="display: inline;"><img alt="1 x cover eye tracking  eye gazing technology  patent from Apple from Patently Apple" border="0" class="asset  asset-image at-xid-6a0120a5580826970c026be40e2fb7200d image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c026be40e2fb7200d-800wi" title="1 x cover eye tracking  eye gazing technology  patent from Apple from Patently Apple" /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/another-dimension-of-apples-eye-tracking-technology-reveals-the-use-of-biometrics-and-machine-learning.html#more">Continue reading "Another Dimension of Apple's Eye Tracking Technology reveals the use of Biometrics and Machine Learning " &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 03, 2020 at 10:42 AM in <a href="https://www.patentlyapple.com/patently-apple/patents-applications/">1. Patent Applications</a>, <a href="https://www.patentlyapple.com/patently-apple/face-object-recognition/">HMDs, Smartglasses +</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/another-dimension-of-apples-eye-tracking-technology-reveals-the-use-of-biometrics-and-machine-learning.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/another-dimension-of-apples-eye-tracking-technology-reveals-the-use-of-biometrics-and-machine-learning.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/five-new-over-ear-headphone-patents-cover-magnetic-assemblies-for-removable-earpieces-textiles-boosting-acoustic-resistance.html">Five new Over-Ear Headphone Patents cover Magnetic Assemblies for Removable Earpieces, Textiles Boosting Acoustic Resistance & more</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026be40e1f5a200d-pi" style="display: inline;"><img alt="1 Cover magnetically attached earphone cups" border="0" class="asset  asset-image at-xid-6a0120a5580826970c026be40e1f5a200d image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c026be40e1f5a200d-800wi" title="1 Cover magnetically attached earphone cups" /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/five-new-over-ear-headphone-patents-cover-magnetic-assemblies-for-removable-earpieces-textiles-boosting-acoustic-resistance.html#more">Continue reading "Five new Over-Ear Headphone Patents cover Magnetic Assemblies for Removable Earpieces, Textiles Boosting Acoustic Resistance & more" &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 03, 2020 at 06:44 AM in <a href="https://www.patentlyapple.com/patently-apple/patents-applications/">1. Patent Applications</a>, <a href="https://www.patentlyapple.com/patently-apple/audio-related/">Audio, HomePod, AirPods & Headphones</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/five-new-over-ear-headphone-patents-cover-magnetic-assemblies-for-removable-earpieces-textiles-boosting-acoustic-resistance.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/five-new-over-ear-headphone-patents-cover-magnetic-assemblies-for-removable-earpieces-textiles-boosting-acoustic-resistance.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/the-9th-us-circuit-court-of-appeals-has-ruled-that-apple-must-pay-more-than-1200-retail-workers-for-time-spent-in-security.html">The 9th U.S. Circuit Court of Appeals has ruled that Apple must pay more than 12,000 retail workers for time spent in Security Screenings </a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c0263e961f98c200b-pi" style="display: inline;"><img alt="1 cover court ruling" border="0" class="asset  asset-image at-xid-6a0120a5580826970c0263e961f98c200b image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c0263e961f98c200b-800wi" title="1 cover court ruling" /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/the-9th-us-circuit-court-of-appeals-has-ruled-that-apple-must-pay-more-than-1200-retail-workers-for-time-spent-in-security.html#more">Continue reading "The 9th U.S. Circuit Court of Appeals has ruled that Apple must pay more than 12,000 retail workers for time spent in Security Screenings " &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 03, 2020 at 03:44 AM in <a href="https://www.patentlyapple.com/patently-apple/patent-infringement/">3. Patently Legal </a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/the-9th-us-circuit-court-of-appeals-has-ruled-that-apple-must-pay-more-than-1200-retail-workers-for-time-spent-in-security.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/the-9th-us-circuit-court-of-appeals-has-ruled-that-apple-must-pay-more-than-1200-retail-workers-for-time-spent-in-security.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/apples-5g-iphone-12-will-stoke-demand-for-lcp-fpcb-modules.html">Apple's 5G iPhone 12 will stoke demand for LCP FPCB Modules</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026be40e174b200d-pi" style="display: inline;"><img alt="1 cover LCP" border="0" class="asset  asset-image at-xid-6a0120a5580826970c026be40e174b200d image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c026be40e174b200d-800wi" title="1 cover LCP" /></a></p>
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/apples-5g-iphone-12-will-stoke-demand-for-lcp-fpcb-modules.html#more">Continue reading "Apple's 5G iPhone 12 will stoke demand for LCP FPCB Modules" &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 03, 2020 at 03:08 AM </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/apples-5g-iphone-12-will-stoke-demand-for-lcp-fpcb-modules.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/apples-5g-iphone-12-will-stoke-demand-for-lcp-fpcb-modules.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/intel-officially-launches-their-11th-gen-core-processor-tiger-lake-for-thin-and-light-notebooks.html">Intel Officially Launched their 11th Gen Core Processor (Tiger Lake) for Thin and Light Notebooks </a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026bde8f1e1e200c-pi" style="display: inline;"><img alt="1 cover Intle" border="0" class="asset  asset-image at-xid-6a0120a5580826970c026bde8f1e1e200c image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c026bde8f1e1e200c-800wi" title="1 cover Intle" /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/intel-officially-launches-their-11th-gen-core-processor-tiger-lake-for-thin-and-light-notebooks.html#more">Continue reading "Intel Officially Launched their 11th Gen Core Processor (Tiger Lake) for Thin and Light Notebooks " &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 02, 2020 at 12:53 PM in <a href="https://www.patentlyapple.com/patently-apple/patently-xtra-news/">5. Patently Extra News - Non-Apple </a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/intel-officially-launches-their-11th-gen-core-processor-tiger-lake-for-thin-and-light-notebooks.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/intel-officially-launches-their-11th-gen-core-processor-tiger-lake-for-thin-and-light-notebooks.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/apple-tv-has-just-released-the-official-trailer-for-the-drama-series-tehran-premiering-on-september-25.html">Apple TV+ has just Released the Official Trailer for the Drama Series 'Tehran' Premiering on September 25</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026be40de28d200d-pi" style="display: inline;"><img alt="1 x cover Tehran  Apple TV+ series" border="0" class="asset  asset-image at-xid-6a0120a5580826970c026be40de28d200d image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c026be40de28d200d-800wi" title="1 x cover Tehran  Apple TV+ series" /></a></p>
+<p style="text-align: center;"><span style="font-size: 8pt;">Niv Sultan as Tamar Rabinyan, in &quot;Tehran.&quot; Graced with the ability to kill and lie and escape from pursuers, while avoiding the clichés of both Wonder Woman and Rambo.</span></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/apple-tv-has-just-released-the-official-trailer-for-the-drama-series-tehran-premiering-on-september-25.html#more">Continue reading "Apple TV+ has just Released the Official Trailer for the Drama Series 'Tehran' Premiering on September 25" &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 02, 2020 at 10:44 AM in <a href="https://www.patentlyapple.com/patently-apple/5b-snap-news/">5. Apple TV+ News</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/apple-tv-has-just-released-the-official-trailer-for-the-drama-series-tehran-premiering-on-september-25.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/apple-tv-has-just-released-the-official-trailer-for-the-drama-series-tehran-premiering-on-september-25.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/a-new-apple-tv-series-titled-the-long-way-up-starring-actor-ewan-mcgregor-is-set-to-premier-on-apple-tv-on-september-18.html">A new Apple TV Series titled the "Long Way Up" Starring Actor Ewan McGregor is set to Premier on Apple TV+ on September 18</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026be40dded3200d-pi" style="display: inline;"> </a><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026bde8f1398200c-pi" style="display: inline;"><img alt="1 x final Cover long way up" border="0" class="asset  asset-image at-xid-6a0120a5580826970c026bde8f1398200c image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c026bde8f1398200c-800wi" title="1 x final Cover long way up" /></a><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026be40dded3200d-pi" style="display: inline;"><br /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/a-new-apple-tv-series-titled-the-long-way-up-starring-actor-ewan-mcgregor-is-set-to-premier-on-apple-tv-on-september-18.html#more">Continue reading "A new Apple TV Series titled the "Long Way Up" Starring Actor Ewan McGregor is set to Premier on Apple TV+ on September 18" &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 02, 2020 at 10:00 AM in <a href="https://www.patentlyapple.com/patently-apple/5b-snap-news/">5. Apple TV+ News</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/a-new-apple-tv-series-titled-the-long-way-up-starring-actor-ewan-mcgregor-is-set-to-premier-on-apple-tv-on-september-18.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/a-new-apple-tv-series-titled-the-long-way-up-starring-actor-ewan-mcgregor-is-set-to-premier-on-apple-tv-on-september-18.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/veteran-dallas-science-teacher-brings-students-closer-to-nature-using-apples-ipad-news-on-the-ios-app-economy.html">Veteran Dallas Science Teacher brings students closer to nature using Apple's iPad + News on the iOS App Economy</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026bde8f0e2e200c-pi" style="display: inline;"><img alt="1 x apple ipad texas teacher program" border="0" class="asset  asset-image at-xid-6a0120a5580826970c026bde8f0e2e200c image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c026bde8f0e2e200c-800wi" title="1 x apple ipad texas teacher program" /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/veteran-dallas-science-teacher-brings-students-closer-to-nature-using-apples-ipad-news-on-the-ios-app-economy.html#more">Continue reading "Veteran Dallas Science Teacher brings students closer to nature using Apple's iPad + News on the iOS App Economy" &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 02, 2020 at 09:09 AM in <a href="https://www.patentlyapple.com/patently-apple/5-apple-news/">5. Apple News</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/veteran-dallas-science-teacher-brings-students-closer-to-nature-using-apples-ipad-news-on-the-ios-app-economy.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/veteran-dallas-science-teacher-brings-students-closer-to-nature-using-apples-ipad-news-on-the-ios-app-economy.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/russian-lawmaker-submits-draft-legislation-to-force-apple-store-commissions-to-be-cut-to-20.html">Russian Lawmaker submits draft Legislation to Force Apple Store Commissions to be cut to 20%</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026be40dd5f2200d-pi" style="display: inline;"><img alt="1 cover - Russia hits Apple" border="0" class="asset  asset-image at-xid-6a0120a5580826970c026be40dd5f2200d image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c026be40dd5f2200d-800wi" title="1 cover - Russia hits Apple" /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/russian-lawmaker-submits-draft-legislation-to-force-apple-store-commissions-to-be-cut-to-20.html#more">Continue reading "Russian Lawmaker submits draft Legislation to Force Apple Store Commissions to be cut to 20%" &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 02, 2020 at 07:43 AM in <a href="https://www.patentlyapple.com/patently-apple/5-apple-news/">5. Apple News</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/russian-lawmaker-submits-draft-legislation-to-force-apple-store-commissions-to-be-cut-to-20.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/russian-lawmaker-submits-draft-legislation-to-force-apple-store-commissions-to-be-cut-to-20.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/apple-won-66-patents-today-covering-a-vehicle-suspension-system-future-smart-fabric-apple-watch-band-with-haptics.html">Apple Won 66 Patents Today covering a Vehicle Suspension System & Future Smart Fabric Apple Watch Band with Haptics</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026bde8eecb3200c-pi" style="display: inline;"><img alt="1 Cover Project Titan suspension system " border="0" class="asset  asset-image at-xid-6a0120a5580826970c026bde8eecb3200c image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c026bde8eecb3200c-800wi" title="1 Cover Project Titan suspension system " /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/apple-won-66-patents-today-covering-a-vehicle-suspension-system-future-smart-fabric-apple-watch-band-with-haptics.html#more">Continue reading "Apple Won 66 Patents Today covering a Vehicle Suspension System & Future Smart Fabric Apple Watch Band with Haptics" &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 01, 2020 at 09:11 PM in <a href="https://www.patentlyapple.com/patently-apple/patents-granted/">2. Granted Patents</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/apple-won-66-patents-today-covering-a-vehicle-suspension-system-future-smart-fabric-apple-watch-band-with-haptics.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/apple-won-66-patents-today-covering-a-vehicle-suspension-system-future-smart-fabric-apple-watch-band-with-haptics.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/apple-won-an-apple-watch-patent-today-that-recognizes-gestures-limb-positions-blood-oxygen-levels-and-touch-id.html">Apple won an Apple Watch Patent today that recognizes Gestures, Limb Positions, Blood Oxygen levels and Touch ID </a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026bde8ee818200c-pi"><img alt="1 Cover fitness assistant  apple watch wins patent sept 01  2020 - Patently Apple report " border="0" class="asset  asset-image at-xid-6a0120a5580826970c026bde8ee818200c image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c026bde8ee818200c-800wi" style="display: block; margin-left: auto; margin-right: auto;" title="1 Cover fitness assistant  apple watch wins patent sept 01  2020 - Patently Apple report " /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/apple-won-an-apple-watch-patent-today-that-recognizes-gestures-limb-positions-blood-oxygen-levels-and-touch-id.html#more">Continue reading "Apple won an Apple Watch Patent today that recognizes Gestures, Limb Positions, Blood Oxygen levels and Touch ID " &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 01, 2020 at 07:43 PM in <a href="https://www.patentlyapple.com/patently-apple/patents-granted/">2. Granted Patents</a>, <a href="https://www.patentlyapple.com/patently-apple/apple-watch/">Apple Watch, Smart Bands &Wearables</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/apple-won-an-apple-watch-patent-today-that-recognizes-gestures-limb-positions-blood-oxygen-levels-and-touch-id.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/apple-won-an-apple-watch-patent-today-that-recognizes-gestures-limb-positions-blood-oxygen-levels-and-touch-id.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/apple-wins-a-patent-for-a-new-notifications-system-based-on-delivering-distinct-hardware-centric-tactile-sensations.html">Apple wins a Patent for a new Notifications System based on Delivering Distinct Hardware-Centric Tactile Sensations </a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c0263e9617cf4200b-pi" style="display: inline;"><img alt="1 x Cover - Tactile Notification system" border="0" class="asset  asset-image at-xid-6a0120a5580826970c0263e9617cf4200b image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c0263e9617cf4200b-800wi" title="1 x Cover - Tactile Notification system" /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/apple-wins-a-patent-for-a-new-notifications-system-based-on-delivering-distinct-hardware-centric-tactile-sensations.html#more">Continue reading "Apple wins a Patent for a new Notifications System based on Delivering Distinct Hardware-Centric Tactile Sensations " &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 01, 2020 at 11:50 AM in <a href="https://www.patentlyapple.com/patently-apple/patents-granted/">2. Granted Patents</a>, <a href="https://www.patentlyapple.com/patently-apple/haptics-sensors-tactile/">Haptics, Sensors & Tactile</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/apple-wins-a-patent-for-a-new-notifications-system-based-on-delivering-distinct-hardware-centric-tactile-sensations.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/apple-wins-a-patent-for-a-new-notifications-system-based-on-delivering-distinct-hardware-centric-tactile-sensations.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/samsung-launched-their-us1999-galaxy-z-fold2-smartphone-today-during-their-brief-online-event.html">Samsung Launched their US$1999 Galaxy Z Fold2 Smartphone today during their brief online Event </a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026be40d8fa5200d-pi" style="display: inline;"><img alt="1x cover samsung galaxy z fold2" border="0" class="asset  asset-image at-xid-6a0120a5580826970c026be40d8fa5200d image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c026be40d8fa5200d-800wi" title="1x cover samsung galaxy z fold2" /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/samsung-launched-their-us1999-galaxy-z-fold2-smartphone-today-during-their-brief-online-event.html#more">Continue reading "Samsung Launched their US$1999 Galaxy Z Fold2 Smartphone today during their brief online Event " &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 01, 2020 at 09:45 AM in <a href="https://www.patentlyapple.com/patently-apple/patently-xtra-news/">5. Patently Extra News - Non-Apple </a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/samsung-launched-their-us1999-galaxy-z-fold2-smartphone-today-during-their-brief-online-event.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/samsung-launched-their-us1999-galaxy-z-fold2-smartphone-today-during-their-brief-online-event.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/apple-wins-a-patent-for-an-all-new-macbook-form-factor-that-just-happens-to-be-ergonomically-friendly.html">Apple Wins a Patent for an all-new MacBook Form Factor that just happens to be Ergonomically Friendly  </a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026be40d8524200d-pi" style="display: inline;"><img alt="1 Cover Apple MacBook new form factor " border="0" class="asset  asset-image at-xid-6a0120a5580826970c026be40d8524200d image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c026be40d8524200d-800wi" title="1 Cover Apple MacBook new form factor " /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/apple-wins-a-patent-for-an-all-new-macbook-form-factor-that-just-happens-to-be-ergonomically-friendly.html#more">Continue reading "Apple Wins a Patent for an all-new MacBook Form Factor that just happens to be Ergonomically Friendly  " &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 01, 2020 at 06:51 AM in <a href="https://www.patentlyapple.com/patently-apple/patents-granted/">2. Granted Patents</a>, <a href="https://www.patentlyapple.com/patently-apple/tech-macs/">Apple Macs </a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/apple-wins-a-patent-for-an-all-new-macbook-form-factor-that-just-happens-to-be-ergonomically-friendly.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/apple-wins-a-patent-for-an-all-new-macbook-form-factor-that-just-happens-to-be-ergonomically-friendly.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/apple-wins-a-patent-for-fabric-smartgloves-that-will-work-with-their-future-mixed-reality-headset-and-beyond.html">Apple Wins a Patent for Fabric Smartgloves that will work with their Future Mixed Reality Headset and beyond</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026bde8eb497200c-pi" style="display: inline;"><img alt="1 Cover Smartgloves  vr gloves apple patent" border="0" class="asset  asset-image at-xid-6a0120a5580826970c026bde8eb497200c image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c026bde8eb497200c-800wi" title="1 Cover Smartgloves  vr gloves apple patent" /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/apple-wins-a-patent-for-fabric-smartgloves-that-will-work-with-their-future-mixed-reality-headset-and-beyond.html#more">Continue reading "Apple Wins a Patent for Fabric Smartgloves that will work with their Future Mixed Reality Headset and beyond" &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 01, 2020 at 05:17 AM in <a href="https://www.patentlyapple.com/patently-apple/patents-granted/">2. Granted Patents</a>, <a href="https://www.patentlyapple.com/patently-apple/tech-accessories/">Apple Accessories</a>, <a href="https://www.patentlyapple.com/patently-apple/face-object-recognition/">HMDs, Smartglasses +</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/apple-wins-a-patent-for-fabric-smartgloves-that-will-work-with-their-future-mixed-reality-headset-and-beyond.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/apple-wins-a-patent-for-fabric-smartgloves-that-will-work-with-their-future-mixed-reality-headset-and-beyond.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/09/samsung-is-beginning-to-work-with-cornings-ultra-thin-glass-substrates-for-future-galaxy-fold-smartphones.html">Samsung is beginning to work with Corning's Ultra Thin Glass Substrates for future Galaxy Fold smartphones</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c0263e9615e42200b-pi" style="display: inline;"><img alt="1 Cover Samsung Galaxy Z Fold2" border="0" class="asset  asset-image at-xid-6a0120a5580826970c0263e9615e42200b image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c0263e9615e42200b-800wi" title="1 Cover Samsung Galaxy Z Fold2" /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/09/samsung-is-beginning-to-work-with-cornings-ultra-thin-glass-substrates-for-future-galaxy-fold-smartphones.html#more">Continue reading "Samsung is beginning to work with Corning's Ultra Thin Glass Substrates for future Galaxy Fold smartphones" &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on September 01, 2020 at 03:29 AM in <a href="https://www.patentlyapple.com/patently-apple/patently-xtra-news/">5. Patently Extra News - Non-Apple </a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/09/samsung-is-beginning-to-work-with-cornings-ultra-thin-glass-substrates-for-future-galaxy-fold-smartphones.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/09/samsung-is-beginning-to-work-with-cornings-ultra-thin-glass-substrates-for-future-galaxy-fold-smartphones.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/08/a-microsoft-patent-reveals-that-theyre-in-a-race-with-apple-to-deliver-smartglasses-with-theirs-using-microled-displays.html">A Microsoft Patent reveals that they're in a race with Apple to deliver Smartglasses with theirs using microLED displays</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026bde8e8dd1200c-pi" style="display: inline;"><img alt="1 x MSFT SMARTGLASSES PATENT IMAGE - PATENTLY APPLE  PATENTLY MOBILE " border="0" class="asset  asset-image at-xid-6a0120a5580826970c026bde8e8dd1200c image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c026bde8e8dd1200c-800wi" title="1 x MSFT SMARTGLASSES PATENT IMAGE - PATENTLY APPLE  PATENTLY MOBILE " /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/08/a-microsoft-patent-reveals-that-theyre-in-a-race-with-apple-to-deliver-smartglasses-with-theirs-using-microled-displays.html#more">Continue reading "A Microsoft Patent reveals that they're in a race with Apple to deliver Smartglasses with theirs using microLED displays" &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on August 31, 2020 at 05:10 PM in <a href="https://www.patentlyapple.com/patently-apple/patently-xtra-news/">5. Patently Extra News - Non-Apple </a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/08/a-microsoft-patent-reveals-that-theyre-in-a-race-with-apple-to-deliver-smartglasses-with-theirs-using-microled-displays.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/08/a-microsoft-patent-reveals-that-theyre-in-a-race-with-apple-to-deliver-smartglasses-with-theirs-using-microled-displays.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.patentlyapple.com/patently-apple/2020/08/apples-wearable-shipments-lead-smashed-their-competitors-in-q2-20-like-bugs-on-a-windshield.html">Apple's Wearable Shipments Lead Smashed their Competitors in Q2-20 like Bugs on a Windshield </a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a class="asset-img-link" href="https://www.patentlyapple.com/.a/6a0120a5580826970c026be40d4c10200d-pi" style="display: inline;"><img alt="1 x Cover - apple wearables" border="0" class="asset  asset-image at-xid-6a0120a5580826970c026be40d4c10200d image-full img-responsive" src="https://www.patentlyapple.com/.a/6a0120a5580826970c026be40d4c10200d-800wi" title="1 x Cover - apple wearables" /></a></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.patentlyapple.com/patently-apple/2020/08/apples-wearable-shipments-lead-smashed-their-competitors-in-q2-20-like-bugs-on-a-windshield.html#more">Continue reading "Apple's Wearable Shipments Lead Smashed their Competitors in Q2-20 like Bugs on a Windshield " &raquo;</a></p>
+                        
+
+
+
+
+<!-- Signature -->
+       
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted by <a rel="author" href="https://profile.typepad.com/6p0120a5580826970c">Jack Purcher</a> on August 31, 2020 at 01:42 PM in <a href="https://www.patentlyapple.com/patently-apple/market-statistics/">7. Apple / Market Statistics</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.patentlyapple.com/patently-apple/2020/08/apples-wearable-shipments-lead-smashed-their-competitors-in-q2-20-like-bugs-on-a-windshield.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.patentlyapple.com/patently-apple/2020/08/apples-wearable-shipments-lead-smashed-their-competitors-in-q2-20-like-bugs-on-a-windshield.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+
+
+
+       
+       
+       <div class="pager-bottom pager-entries pager content-nav">
+                <div class="pager-inner">
+                        
+
+                        
+                        <a href="https://www.patentlyapple.com/patently-apple/page/2/">
+                        <span class="pager-right">
+                        <span class="pager-label">Next</span>
+                        <i class="fas fa-arrow-circle-right"></i> 
+                        </span></a>
+                        
+                </div>
+        </div>
+        
+        
+ 
+
+
+                    </div></div>
+
+                </div>
+                <div class="col-sm-4 col-sm-pull-8 col-md-3 col-md-pull-6" id="sidebar1">
+
+                    <aside class="widgets">
+                      <div class="widgets-inner">
+
+
+<!-- sidebar1 -->
+
+
+<!-- custom_code.tt --><div class="module-custom_html module">
+    <div class="module-content">
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=patentlyapple/SZdI', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address:</p><p><input type="text" style="width:140px" name="email"/></p><input type="hidden" value="patentlyapple/SZdI" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Subscribe" /><p>Delivered by <a href="https://feedburner.google.com" target="_blank">FeedBurner</a></p></form>
+    </div>
+</div>
+<!-- end custom_code.tt -->
+<!-- custom_code.tt --><div class="module-custom_html module">
+    <div class="module-content">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Square Ad -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5081215961688388"
+     data-ad-slot="6227402747"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+    </div>
+</div>
+<!-- end custom_code.tt -->
+<div class="module-categories module">
+	<h2 class="module-header"><a href="https://www.patentlyapple.com/patently-apple/archives.html">Categories</a></h2>
+	<div class="module-content">
+                   <ul class="module-list">
+
+<span class="group">
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/patents-applications/">1. Patent Applications</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/patents-granted/">2. Granted Patents</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/patent-infringement/">3. Patently Legal </a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/trademarks/">4. Trademark, Design </a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/5-apple-news/">5. Apple News</a></li>
+</span>
+
+<span class="group">
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/5b-snap-news/">5. Apple TV+ News</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/patently-xtra-news/">5. Patently Extra News - Non-Apple </a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/6a-rumors-supply-chain/">5. Rumors, Supply Chain News </a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/market-statistics/">7. Apple / Market Statistics</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/apple-events/">8. Apple Events / Financial News</a></li>
+</span>
+
+<span class="group">
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/tech-accessories/">Apple Accessories</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/tech-tablet/">Apple iPad </a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/tech-iphone/">Apple iPhone</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/tech-ipod/">Apple iPod</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/tech-macs/">Apple Macs </a></li>
+</span>
+
+<span class="group">
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/tech-nfc/">Apple Pay</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/patents-smart-pens/">Apple Pencil </a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/patents-apple-store/">Apple Store </a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/tech-tv/">Apple TV </a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/apple-watch/">Apple Watch, Smart Bands &Wearables</a></li>
+</span>
+
+<span class="group">
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/audio-related/">Audio, HomePod, AirPods & Headphones</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/augmented-reality/">Augmented & Virtual Reality</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/biometrics/">Biometrics & Health</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/patents-camera/">Camera Related</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/telephonic-macbook/">Cellular MacBook </a></li>
+</span>
+
+<span class="group">
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/patents-devices/">Devices, Components</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/displays-lcdtouch/">Display Technology </a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/displays-flexible/">Displays - Flexible, Foldable & Scrollable</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/haptics-sensors-tactile/">Haptics, Sensors & Tactile</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/face-object-recognition/">HMDs, Smartglasses +</a></li>
+</span>
+
+<span class="group">
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/in-air-gesturing-gestures/">In-Air Gesturing, Gestures</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/patents-location/">Maps, Indoor Location</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/patents-materials/">Materials, Processes</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/autonomous-vehicle-technology/">Project Titan, Vehicle Technology</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/patents-projectors/">Projection Related</a></li>
+</span>
+
+<span class="group">
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/haptics/">Sensors, Chips & Haptics</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/wearables-smart-fabric-clothing/">Smart Fabric & Clothing</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/patents-software/">Software + OS</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.patentlyapple.com/patently-apple/inductive-wireless-charging/">Wireless Charging, Wireless technology</a></li>
+</span>
+		</ul>
+
+<a style="font-size:85%;display:none;" class="cat-more" href="https://www.patentlyapple.com/patently-apple/archives.html">See More</a>
+	</div>
+</div>
+
+
+
+
+                      </div>
+                    </aside>
+
+
+                </div>
+
+                <div class="col-sm-4 col-sm-pull-8 col-md-3 col-md-pull-0" id="sidebar2">
+
+                    <aside class="widgets">
+                      <div class="widgets-inner">
+
+<!-- sidebar2 -->
+
+
+<div class="module-search module">
+    <h2 class="module-header">Search</h2>
+    <div class="module-content">
+        <form id="search-blog" method="get" action="https://www.patentlyapple.com/.services/blog/6a0120a5580826970c0120a5580ebf970c/search" class="form-search form-inline" role="search">
+            
+<div class="form-group"><input type="search" name="filter.q" results="5" value="" class="form-control" placeholder="Search" /></div><button type="submit" value="Search" class="btn btn-default">Submit</button>
+
+        </form>
+    </div>
+</div>
+<!-- END Blog Search Module -->
+<!-- custom_code.tt --><div class="module-custom_html module">
+    <div class="module-content">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Vertical Ad -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5081215961688388"
+     data-ad-slot="9679562591"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    </div>
+</div>
+<!-- end custom_code.tt -->
+<!-- custom_code.tt --><div class="module-custom_html module">
+    <div class="module-content">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    </div>
+</div>
+<!-- end custom_code.tt -->
+<!-- custom_code.tt --><div class="module-custom_html module">
+    <div class="module-content">
+<script data-ad-client="ca-pub-5081215961688388" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<amp-auto-ads type="adsense"
+        data-ad-client="ca-pub-5081215961688388">
+</amp-auto-ads>
+    </div>
+</div>
+<!-- end custom_code.tt -->
+
+
+
+
+                      </div>
+                    </aside>
+
+
+                </div>
+
+            </div>
+
+     
+
+
+<!-- footer -->
+<div id="footer">
+<div class="row well"><div class="col-md-12">
+        <div id="footer-inner">
+          <!-- not attag.weblog footer html -->
+                <ul class="footer-list pkg list-inline font-footer" >
+                        <li class="footer-list-item"><a href="https://www.patentlyapple.com/patently-apple/">Patenly Apple</a> &bull; </li>
+                        <li class="last-footer-list-item footer-list-item"><a href="http://www.patentlymobile.com/">Also check out our other IP blog called Patently Mobile</a></li>
+                </ul>
+        </div>
+        <a href="#top" id="toplink"><div id="footer-toplink">
+           <div id="footer-arrow"><i class="fas fa-arrow-circle-up"></i></div>
+           <div id="footer-top"><span class="footer-top-inner font-footer">Top</span></div>
+        </div></a>
+</div></div>
+</div>
+
+
+     <!-- foot-scripts -->
+          <!-- foot-scripts-1 -->
+    <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+
+    <script src="https://static.typepad.com/.shared/themes/common/bootstrap/js/bootstrap.min.js"></script>
+
+
+
+
+
+          
+
+
+
+
+
+          <!-- foot-scripts-2 -->
+    <script src="https://static.typepad.com/.shared/js/classie.js"></script>
+    <script src="https://static.typepad.com/.shared/js/sidebarEffects.js"></script>
+    <script src="https://static.typepad.com/.shared/js/jquery.masonry.min.js"></script>
+    <script src="https://static.typepad.com/.shared/js/imagesloaded.pkgd.min.js"></script>
+    <script src="https://static.typepad.com/.shared/js/jquery.livequery.min.js"></script>
+<script>
+    var j = $.noConflict(true);
+
+
+function resizebanner() {
+    var bg = j('#banner').css('background-image');
+    if (bg) {
+        var src = bg.replace(/(^url\()|(\)$|[\"\'])/g, '');
+        var $img = j('<img>').attr('src', src).on('load', function () {
+                var img = new Image();
+                img.src = src;
+                var imgW = img.width;
+                var imgH = img.height;
+                var newW = j('#banner').width();
+                var newH = imgH / imgW * newW;
+                j('#banner').height(newH);
+                j('#banner, #banner-title, #banner-desc').css('visibility', 'visible');
+            });//end when loaded
+    }//end if bg
+}//end
+    (function($) {
+       j(document).on('ready', resizebanner);
+       j(window).on('resize', resizebanner);
+    })(jQuery);
+
+
+function check_css_size() {
+    if (j("#mysize").css("float") == "right" ){ mod_pos = 'side'; }
+    else if (j("#mysize").css("float") == "none" ){ mod_pos = 'bottom'; }
+}
+
+
+
+        // SCROLL TO TOP
+        (function($) {
+          j('a[href*=#]:not([href=#])').click(function() {
+            if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+              var target = j(this.hash);
+              target = target.length ? target : j('[name=' + this.hash.slice(1) +']');
+              if (target.length) {
+                j('html,body').animate({
+                  scrollTop: target.offset().top
+                }, 1000);
+                return false;
+              }
+            }
+          });
+        })(jQuery);
+
+        // PREV/NEXT ON IA
+        (function($) {
+        j(window).scroll(function() {
+            if (j(this).scrollTop()) {
+                j('#previous_story:hidden').stop(true, true).fadeIn();
+                j('#next_story:hidden').stop(true, true).fadeIn();
+            } else {
+                j('#previous_story').stop(true, true).fadeOut();
+                j('#next_story').stop(true, true).fadeOut();
+            }
+        });
+        })(jQuery);
+
+
+        // SLIDE-IN NAV
+        (function($) {
+        j( ".close-side-menu" ).click(function() {
+            j('#st-container').removeClass('st-menu-open');
+        });
+        })(jQuery);
+
+         //MASONRY
+              
+
+function changeCols() {
+        (function($) {
+              
+                check_css_size();
+                if(mod_pos == 'bottom') {
+                   j('.widgets-inner').addClass('bottomwidgets');
+                     
+                 } else {
+                   j('.widgets-inner').removeClass('bottomwidgets');
+                 }
+              
+        })(jQuery);
+}//function
+
+j(document).ready(function($) {
+   changeCols();
+});
+
+j(window).resize(function( event ) {
+        changeCols();
+});
+
+
+(function($) {
+  j(window).load(function(){
+        var $ctCollContainer = j('.widgets-inner');
+
+           j('.twitter-timeline').closest( ".module" ).height('300px');
+           j('.fb_iframe_widget').closest( ".module" ).height('230px');
+
+           $ctCollContainer.imagesLoaded( function(){
+              $ctCollContainer.masonry({
+                    itemSelector: '.module',
+                    "gutter": 20,
+               });
+
+               var msnry = $ctCollContainer.data('masonry');
+
+               msnry.on( 'layoutComplete', function( msnryInstance, laidOutItems ) {
+                 //console.log('Masonry layout completed on ' + laidOutItems.length + ' items');
+                    
+               });
+
+               msnry.layout();
+                $ctCollContainer.masonry('reloadItems');
+
+            });//end imagesloaded
+      });
+})(jQuery);
+
+
+
+//banner image loaded
+        (function($) {
+        bg = j('#banner').css('background-image');
+
+       if (bg && bg !='none') {
+         var src = bg.replace(/(^url\()|(\)$|[\"\'])/g, '');
+           $img = j('<img>').attr('src', src).on('load', function() {
+              j('#banner-title, #banner-desc').show();
+           });
+        } else {
+              j('#banner-title, #banner-desc').show();
+        }
+        })(jQuery);
+
+//default highlight bar from theme colors
+
+function hexToRgb(hex) {
+   var result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+    r = parseInt(result[1], 16);
+    g = parseInt(result[2], 16);
+    b = parseInt(result[3], 16);
+    j('.overlay-text').css('background', 'rgba(' + r + ',' + g + ',' + b + ',0.7)');
+}
+hexToRgb("#FFFFFF");
+
+
+//nav-highlight
+(function($){
+  j('.navtext a').each(function() {
+    if (j(this).prop('pathname') == window.location.pathname) {
+      j(this).addClass('currentnav');
+    }
+  });
+})(jQuery);
+
+        </script>
+
+        </div>
+
+    </main>
+
+<div id="mysize" style="display: none"></div>
+
+<script type="text/javascript">
+<!--
+var extra_happy = Math.floor(1000000000 * Math.random());
+document.write('<img src="https://www.typepad.com/t/stats?blog_id=81246590915811084&amp;user_id=&amp;page=' + escape(location.href) + '&amp;referrer=' + escape(document.referrer) + '&amp;i=' + extra_happy + '" width="1" height="1" alt="" style="position: absolute; top: 0; left: 0;" />');
+// -->
+</script>
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-157389885-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+
+
+<!-- Begin disqus Tag -->
+
+<!-- End disqus Tag -->
+</body>
+</html>
+
+
+
+<!-- ph=1 -->
